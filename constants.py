@@ -11,3 +11,4 @@ black = (0, 0, 0)
 white = (255, 255, 255)
 background = (0, 0, 0)
 fps = 60
+scale = 0.25
